@@ -63,7 +63,7 @@
         </div>
         <footer class="text-center">
             <p class="py-3"><img  class="d=block">
-                2023 <i class="bi bi-c-circle"></i> Desenvolvido por Hellen e Geneviê | Projeto fictício sem fins comerciais.
+                2023 <i class="bi bi-c-circle"></i> Desenvolvido por Alunos da Facimp | Projeto fictício sem fins comerciais.
             </p>
           </footer>
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/js/bootstrap.bundle.min.js"
